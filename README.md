@@ -6,8 +6,12 @@ I am a software engineer specializing in full-stack development in JavaScript. I
 
 Interested in my background and want to set up a time to chat? DM me on [LinkedIn](https://www.linkedin.com/in/amy-shi218/)
 
+### Languages & Tools
+
 **Front-End** : JavaScript | React | jQuery | HTML5 | CSS3 | Material UI | Typescript | Redux | animate.css
+
 **Back–End** : Node.js | Express | PostgreSQL | MongoDB | Mongoose | MySQL | RESTful API Development | NGINX | Firebase 
+
 **Tools** : git | AWS | Jest | Mocha/Chai | Lighthouse | K6 | Loader.io | Postman | Figma | Trello 
 
 <!--
