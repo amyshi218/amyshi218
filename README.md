@@ -1,3 +1,5 @@
+[![Social banner for Amy Shi](https://github.com/amyshi218/amyshi218/raw/master/assets/githubbanner.png)(https://www.linkedin.com/in/amy-shi218/)]
+
 ### Hi there 👋
 
 <!--
