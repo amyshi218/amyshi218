@@ -4,6 +4,12 @@
 
 I am a software engineer specializing in full-stack development in JavaScript. I enjoy solving problems and improving systems. I am always looking for innovative ways to improve myself. 
 
+Interested in my background and want to set up a time to chat? DM me on [![LinkedIn]](https://www.linkedin.com/in/amy-shi218/).
+
+**Front-End** : JavaScript | React | jQuery | HTML5 | CSS3 | Material UI | Typescript | Redux | animate.css
+**Back–End** : Node.js | Express | PostgreSQL | MongoDB | Mongoose | MySQL | RESTful API Development | NGINX | Firebase 
+**Tools** : git | AWS | Jest | Mocha/Chai | Lighthouse | K6 | Loader.io | Postman | Figma | Trello 
+
 <!--
 **amyshi218/amyshi218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
