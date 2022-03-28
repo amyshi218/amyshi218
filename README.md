@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+I am a software engineer specializing in full-stack development in JavaScript. I enjoy solving problems and improving systems. I am always looking for innovative ways to improve myself. 
+
 <!--
 **amyshi218/amyshi218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
