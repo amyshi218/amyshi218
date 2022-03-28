@@ -4,7 +4,7 @@
 
 I am a software engineer specializing in full-stack development in JavaScript. I enjoy solving problems and improving systems. I am always looking for innovative ways to improve myself. 
 
-Interested in my background and want to set up a time to chat? DM me on [LinkedIn](https://www.linkedin.com/in/amy-shi218/)
+Want to chat? DM me on [LinkedIn](https://www.linkedin.com/in/amy-shi218/)
 
 ### Languages & Tools
 
